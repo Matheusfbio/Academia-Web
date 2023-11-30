@@ -6,7 +6,7 @@
 ```
 pip install Flask
 ```
-<p align="left">Entre na pasta do projeto e executo</p>
+<p align="left">Entre na pasta do projeto e execute</p>
 
 ```
 Flask run
