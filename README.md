@@ -1,6 +1,6 @@
 # Academia-Web
 
-<p align="left">Crie uma tabela chamado academiadb com a sua senha do seu postgres e crie as tabelas, os dados para preencer as tabelas estão no 🗂database/tb_academia Instale o Python e o Flask</p>
+<p align="left">Crie uma tabela chamado academiadb com a sua senha do seu postgres e crie as tabelas, os dados para preencer as tabelas estão no <br> 🗂database/tb_academia Instale o Python e o Flask</p>
 
 ###
 ```
